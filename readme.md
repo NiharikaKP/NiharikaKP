@@ -22,16 +22,13 @@ As I continue my journey, I'm <b>focused</b> on:
 - 👯 Collaborating on open-source projects.
 
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />  Famous Fact/Quote:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 • <i>“Low-level programming is good for the programmer’s soul.”— John Carmack   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
-<!--STARTS_HERE_QUOTE_README-->
-• <i>"When your work speaks for itself, don't interrupt." - Henry J. Kaiser </i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+
 
 
