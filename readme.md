@@ -7,7 +7,7 @@
 </p>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Sophomore🎓 [@ Jecrc University ]** majoring in Computer Science<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> with a strong interest in **Competitive Programming (CP)** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I've learned the basics of computer science<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  through the <b>CS50</b> course offered by <b>Harvard University</b>, and I'm constantly pushing my boundaries to improve my coding skills <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">. I’m <b>passionate</b> about <b>problem-solving</b> and eager to apply what I’ve learned to real-world challenges.  <br/><br/>
+I'm a **Sophomore🎓 [@ Jecrc University ]** majoring in Computer Science with a strong interest in **Competitive Programming (CP)** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I've learned the basics of computer science through the <b>CS50</b> course offered by <b>Harvard University</b>, and I'm constantly pushing my boundaries to improve my coding skills. I’m <b>passionate</b> about <b>problem-solving</b> and eager to apply what I’ve learned to real-world challenges.  <br/><br/>
 
 
 <p align="center">
@@ -16,13 +16,13 @@ I'm a **Sophomore🎓 [@ Jecrc University ]** majoring in Computer Science<img s
 
 ### 🚀 What's Next?
 As I continue my journey, I'm <b>focused</b> on:
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20px" />  Deepening my understanding of algorithms and data structures. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> Participating in more CP contests. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> Building projects that challenge my technical skills.
+-   Deepening my understanding of algorithms and data structures. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Participating in more CP contests. 
+-  Building projects that challenge my technical skills.
 - 👯 Collaborating on open-source projects.
 
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+###  A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 • <i>“Low-level programming is good for the programmer’s soul.”— John Carmack   </i>
