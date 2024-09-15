@@ -29,7 +29,7 @@ As I continue my journey, I'm <b>focused</b> on:
 ### <img src="https://github.com/NiharikaKP/assets/blob/main/confused.gif?raw=true" alt="Confused GIF" width="20" height="20"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Low-level programming is good for the programmer’s soul.”— John Carmack   </i>
+• <i>“If you can’t explain something in simple terms, you don’t understand it.” — Richard Feynman   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
