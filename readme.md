@@ -26,7 +26,7 @@ As I continue my journey, I'm <b>focused</b> on:
 - 👯 Collaborating on open-source projects.
 
 
-### <img src="https://github.com/NiharikaKP/assets/blob/main/confused.gif?raw=true" alt="Confused GIF" width="20" height="20"> A Famous Fact/Quote:
+
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 • <i>Be a problem solver. Be a fixer. Don't be a problem-pass-on-er. Make things easy for others.  </i>
